@@ -1,0 +1,100 @@
+# print("Hellp world")
+#
+# print("Mary's cosmetics")
+#
+# print('신씨가 소리질렀다. "도둑이야".'
+#
+# print('"C:\Windows"'
+#
+# \n:줄바꾸기
+# \t:tab
+#
+# 오늘은 일요일
+#
+# print("naver;kakao;sk;samsung")
+#
+# print("naver/kakao/sk/samsung")
+#
+# print("first",end='');print("second")
+#
+# print(5/3)
+#
+# 삼성전자=50000
+# 총평가금액=삼성전자*10
+# print(총평가금액)
+#
+# 시가총액="298조"
+# 현재가="50000원"
+# PER=15.79
+#
+# s='hello'
+# t='python'
+# print(s+'!'+t)
+#
+# print(type(124)) 정수형
+# print(type(3.14)) 실수형
+# print(type("abcd")) 문자열
+#
+# num_str = '720'
+# print(type(num_str))
+# print(type(int(num_str)))
+# print(int(num_str+100))
+#
+# num=100
+# print(type(num_str))
+# print(type(str(num)))
+# print(str(num)+"absd")
+#
+# num=15.79
+# print(type(num))
+# print(type(float(num)))
+# print(float(num)+1.32)
+#
+# letters='python'
+# print(letters[0], letters[2])
+#
+# license_plate= "24가 2210"
+# print(license_plate[3:8])
+#
+# string="홀짝홀짝홀짤"
+# print(string[0]+string[2]+string[4])
+# print(string[::2])
+#
+# string='python'
+# print(string[::-1])
+#
+# phone_number="010-6700-1950"
+# print(phone_number.replace("-"," "))
+#
+# phone_number="010-6700-1950"
+# print(phone_number.replace("-",""))
+#
+# url="http://sharebook.kr"
+# url_split=url.split(".")
+# print(url_split[1])
+#
+# a="hello!, my name is {}, i'm {} years old".format("python", "14")
+# print(a)
+#
+# name1="김민수"
+# age1="10"
+# name2="이철희"
+# age2="13"
+#
+# a= "이름:{} 나이:{} \n이름:{} 나이:{}".format(name1,age1,name2,age2)
+# print(a)
+#
+# nums=[1,2,3,4,5]
+# print(sum(nums)/len(nums))
+# 
+# data=[2,4,3,1,5,10,9]
+# data.sort()
+# print(data)
+# 
+# data.sort()
+# data.reverse()
+# 
+# print(data)
+# 
+# a=7
+# print(a==7)
